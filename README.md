@@ -1,6 +1,4 @@
-# Frontend Mentor - Kanban Task Management Web App
-
-This project is a solution to the [Frontend Mentor Kanban task management web app challenge](https://www.frontendmentor.io/challenges/kanban-task-management-web-app-wgQLt-HlbB). It recreates a modern kanban workflow with multiple boards, columns, tasks, subtasks, theme switching, and responsive layouts using React and Redux.
+ Kanban Task Management Web App
 
 ## Table of Contents
 
@@ -12,8 +10,6 @@ This project is a solution to the [Frontend Mentor Kanban task management web ap
 - [Getting Started](#getting-started)
 - [Available Scripts](#available-scripts)
 - [State Management Notes](#state-management-notes)
-- [Future Improvements](#future-improvements)
-- [Author](#author)
 
 ## Overview
 

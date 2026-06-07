@@ -1,4 +1,4 @@
- ## Kanban Task Management Web App
+ ### Kanban Task Management Web App
 
 ## Table of Contents
 
@@ -58,7 +58,7 @@ Users can:
 
 ### Screenshot
 
-![Screenshot](https://drive.google.com/file/d/1E5Q48rnFSKUQSN--5DOA8env-TmyYtMR/view?usp=drivesdk)
+![Screenshot]("C:\Users\sheet\Downloads\Screenshot 2026-06-07 205248.png")
 
 ### Live Demo
 

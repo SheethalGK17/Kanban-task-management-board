@@ -4,7 +4,7 @@
 
 - [Overview](#overview)
 - [Features](#features)
-- [Screenshots and Demo](#screenshots-and-demo)
+- [Demo](#live-demo)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
@@ -54,11 +54,7 @@ Users can:
 - Subtasks can be marked complete from the task details view
 - Drag and drop allows tasks to be repositioned across columns
 
-## Screenshots and Demo
-
-### Screenshot
-
-![Screenshot]("C:\Users\sheet\Downloads\Screenshot 2026-06-07 205248.png")
+## Demo
 
 ### Live Demo
 

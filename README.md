@@ -58,11 +58,11 @@ Users can:
 
 ### Screenshot
 
-![Screenshot](https://user-images.githubusercontent.com/100496179/197352796-412b11a9-569c-49e9-95bd-a79776260cdd.png)
+![Screenshot](https://drive.google.com/file/d/1E5Q48rnFSKUQSN--5DOA8env-TmyYtMR/view?usp=drivesdk)
 
 ### Live Demo
 
-- Live Site: (https://kanban-task-management-app.netlify.app/)
+- Live Site: (https://sheethalgk-kanban-task-management.netlify.app/)
 
 ## Tech Stack
 
